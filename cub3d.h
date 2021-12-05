@@ -6,7 +6,7 @@
 /*   By: mel-haya <mel-haya@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/01 21:26:26 by mel-haya          #+#    #+#             */
-/*   Updated: 2020/03/14 13:54:31 by mel-haya         ###   ########.fr       */
+/*   Updated: 2021/12/05 05:37:34 by mel-haya         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
 # include "GNL/get_next_line.h"
 # include "libft/libft.h"
 # include "mlx.h"
-# define TILE_SIZE 64
+# define TILE_SIZE 300
 # define ESC 53
 # define NO 3
 # define SO 1
